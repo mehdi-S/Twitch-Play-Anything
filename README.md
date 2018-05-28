@@ -16,4 +16,5 @@ A starter to create any TwitchPlay stream integration
 # Setup
 
 simply edit config in main.py to match your Twitch Credential.
+
 You can get an OAuth Token from Twitch.tv here : https://twitchapps.com/tmi/
